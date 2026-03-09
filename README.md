@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World, eu sou o Wallace Uchôa!</h1>
 
 <p align="center">
-  Estudante de ADS • Fullstack & Dados • Dashboards, Automação e Sistemas Web
+ Fullstack & Dados • Dashboards, Automação e Sistemas Web
 </p>
 
 
