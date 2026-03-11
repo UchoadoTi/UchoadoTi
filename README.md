@@ -5,7 +5,7 @@
 </p>
 
 
-## Sobre mim
+**Sobre mim**
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🧠 Focado em dashboards, automações e sistemas web/mobile fullstack  
@@ -14,18 +14,19 @@
 
 ---
 
-🛠 Tech Stack & Ferramentas
+**🛠 Tech Stack & Ferramentas**
 
-Linguagens
+**Linguagens**
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
 </p>
 
-🤖 AI-Driven Development (Assistentes & Geração)
+**🤖 AI Development**
 
 <p>
 <img src="https://img.shields.io/badge/Lovable-7E3AF2?style=for-the-badge&logo=rocket&logoColor=white" />
@@ -35,7 +36,7 @@ Linguagens
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-Frontend & Backend
+**Frontend & Backend**
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
@@ -45,7 +46,7 @@ Frontend & Backend
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
 </p>
 
-Dados & Automação de Processos
+**Dados & Automação de Processos**
 
 <p>
 <img src="https://img.shields.io/badge/n8n-FF6A3D?style=for-the-badge&logo=n8n&logoColor=fff" />
@@ -53,7 +54,7 @@ Dados & Automação de Processos
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
 </p>
 
-DevOps & Workflow
+**DevOps & Workflow**
 
 <p>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
