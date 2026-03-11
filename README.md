@@ -72,5 +72,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uchoadoti&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas de Wallace" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UchoadoTi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas de Wallace" />
 </p>
