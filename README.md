@@ -69,3 +69,8 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uchoadoti&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas de Wallace" />
+</p>
