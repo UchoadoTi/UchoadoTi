@@ -7,7 +7,7 @@
 
 **Sobre mim**
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Formando de **Análise e Desenvolvimento de Sistemas**  
 - 🧠 Focado em dashboards, automações e sistemas web/mobile fullstack  
 - 📊 Curto transformar dados em decisões com visualizações e relatórios  
 - 🚀 Sempre aprendendo novas tecnologias e boas práticas de arquitetura  
